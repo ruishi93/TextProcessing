@@ -14,7 +14,7 @@
 
 ---------可读性指标----------
 
-（Citation：https://github.com/mmautner/readability）
+Citation：https://github.com/mmautner/readability
 
 * ARI
 * ColemanLiauIndex
